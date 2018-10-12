@@ -1532,6 +1532,28 @@ body {
   font-size: 20px;
   color: #232323;
 }
+.cid-r6hcCCMscD {
+  background: #ffffff;
+  background: linear-gradient(135deg, #ffffff, #52bdf1);
+}
+.cid-r6hcCCMscD .container-fluid {
+  padding: 0 3rem;
+}
+.cid-r6hcCCMscD .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-r6hcCCMscD .image-block img {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .cid-r6hcCCMscD .container-fluid {
+    padding: 0 1rem;
+  }
+  .cid-r6hcCCMscD .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qMMzH7i9f5 {
   padding-top: 30px;
   padding-bottom: 0px;
