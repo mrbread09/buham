@@ -2145,6 +2145,47 @@ body {
     padding: 0 1rem;
   }
 }
+.cid-rerGStdjNH {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rerGStdjNH .container-fluid {
+  padding: 0 3rem;
+}
+.cid-rerGStdjNH .media-container-column {
+  padding: 0 2rem;
+}
+.cid-rerGStdjNH .mbr-section-title {
+  display: inline-block;
+  position: relative;
+}
+@media (max-width: 767px) {
+  .cid-rerGStdjNH .container-fluid {
+    padding: 0 1rem;
+  }
+}
+.cid-rerGStdjNH .mbr-section-title P {
+  color: #000000;
+}
+.cid-rerGAUUTf3 {
+  background: #ffffff;
+}
+.cid-rerGAUUTf3 .container-fluid {
+  padding: 0 3rem;
+}
+.cid-rerGAUUTf3 .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 767px) {
+  .cid-rerGAUUTf3 .container-fluid {
+    padding: 0 1rem;
+  }
+  .cid-rerGAUUTf3 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-qMMGcnCfR4 {
   padding-top: 30px;
   padding-bottom: 15px;
